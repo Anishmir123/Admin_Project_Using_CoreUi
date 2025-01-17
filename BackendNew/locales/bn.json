@@ -1,0 +1,23 @@
+{
+	"validation": {
+		"required": "The :attribute is required.",
+		"max": {
+			"numeric": "The :attribute may not be greater than :max.",
+			"file": "The :attribute may not be greater than :max kilobytes.",
+			"string": "The :attribute may not be greater than :max characters.",
+			"array": "The :attribute may not have more than :max items."
+		},
+		"email": "The :attribute must be a valid email address.",
+		"uniqueEmail": "The email has already been taken."
+	},
+	"message": {
+		"vErr": "Validation failed.",
+		"serverError": "Something went wrong.",
+		"registerSuccess": "Successfully registered.",
+		"invalidCredentials": "Invalid credentials.",
+		"loginSuccess": "login Successfully",
+		"formSubmitSuccess": "message.formSubmitSuccess",
+		"Successful": "Successful",
+		"logoutSuccess": "logout Success"
+	}
+}
